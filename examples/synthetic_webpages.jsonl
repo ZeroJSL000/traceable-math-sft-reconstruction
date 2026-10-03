@@ -1,0 +1,3 @@
+{"id":"demo-1","text":"Question: Mira has 4 red marbles and 7 blue marbles. How many marbles does Mira have?\nSolution: Mira adds 4 and 7 to get 11 marbles total. The source answer is \\boxed{11}.","metadata":{"source":"synthetic"}}
+{"id":"demo-2","text":"Question: A jar contains 3 green counters and 5 yellow counters. How many counters are in the jar?\nSolution: Add the 3 green counters and the 5 yellow counters to get 8 counters.\nAnswer: 8\nComments\nUnrelated discussion follows.","metadata":{"source":"synthetic"}}
+{"id":"demo-3","text":"Actual Session: This is a deliberately contaminated synthetic record with no trustworthy question or solution.","metadata":{"source":"synthetic"}}
